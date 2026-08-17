@@ -1,0 +1,6 @@
+{
+  "name": "NutriScan AI",
+  "description": "AI-powered nutrition and diet scanner with real-time calorie tracking, water log, custom recipes, and smart diet assistant.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
